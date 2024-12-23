@@ -2,7 +2,6 @@ import React from 'react';
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 import { SiCodeforces } from "react-icons/si";
-import { FiLinkedin } from "react-icons/fi";
 import { SiCodechef } from "react-icons/si";
 
 const SocialLinks = () => {
