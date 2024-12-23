@@ -17,9 +17,9 @@ function Home() {
       h11.current,
       {
         x: "-100%",
-        delay: 0.8,
+        delay: 0.4,
         opacity: 0,
-        duration: 2,
+        duration: 1.5,
         ease: "Power3.easeOut",
       },
       "<"
@@ -28,9 +28,9 @@ function Home() {
         h12.current,
         {
           x: "-100%",
-          delay: 0.5,
+          delay: 0.2,
           opacity: 0,
-          duration: 2,
+          duration: 1.5,
           ease: "Power3.easeOut",
         },
         "<"
@@ -41,7 +41,7 @@ function Home() {
           x: "-100%",
           delay: 0.1,
           opacity: 0,
-          duration: 2,
+          duration: 1.5,
         },
         "<"
       )
@@ -49,9 +49,9 @@ function Home() {
         myimageref.current,
         {
           x: "200%",
-          delay: 0.5,
+          delay: 0.4,
           opacity: 0,
-          duration: 2,
+          duration: 1,
           ease: "Power3.easeOut",
         },
         "<"

@@ -4,7 +4,7 @@ import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // import ProjectsContainer from "./Components/Project";
 // Profile Image
-import profile from "./assets/profile.png";
+import profile from "./assets/profile.jpg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
