@@ -44,39 +44,39 @@ const Profiles = () => {
           <div className="flex flex-col items-center gap-4 bg-">
             {/* Profile Links with Logos */}
             <a
-              href="https://github.com/yourusername" // Replace with your GitHub profile URL
-              target="_blank"
+        href="https://github.com/BhaveshP443" // Replace with your GitHub profile URL
+        target="_blank"
               rel="noopener noreferrer"
               className="text-dark-heading dark:text-light-heading hover:text-gradient transition-colors"
             >
               <FaGithub className="w-8 h-8" />
             </a>
             <a
-              href="https://linkedin.com/in/yourusername" // Replace with your LinkedIn profile URL
-              target="_blank"
+        href="https://linkedin.com/in/bhavesh-patidar" // Replace with your LinkedIn profile URL
+        target="_blank"
               rel="noopener noreferrer"
               className="text-dark-heading dark:text-light-heading hover:text-gradient transition-colors"
             >
               < FaLinkedin className='w-8 h-8'/>
             </a>
             <a
-              href="https://codeforces.com/profile/yourusername" // Replace with your Codeforces profile URL
-              target="_blank"
+        href="https://codeforces.com/profile/Bhavesh_443" // Replace with your LinkedIn profile URL
+        target="_blank"
               rel="noopener noreferrer"
               className="text-dark-heading dark:text-light-heading hover:text-gradient transition-colors"
             >
               <SiCodeforces className='w-8 h-8'/>
             </a>
             <a
-              href="https://www.codechef.com/users/yourusername" // Replace with your CodeChef profile URL
-              target="_blank"
+        href="https://www.codechef.com/users/bhavesh443" // Replace with your LinkedIn profile URL
+        target="_blank"
               rel="noopener noreferrer"
               className="text-dark-heading dark:text-light-heading hover:text-gradient transition-colors"
             >
               <SiCodechef className='w-8 h-8'/>
             </a>
             <a
-              href="https://leetcode.com/yourusername" // Replace with your LeetCode profile URL
+              href="https://leetcode.com/u/bhaveshpatidar443/" // Replace with your LeetCode profile URL
               target="_blank"
               rel="noopener noreferrer"
               className="text-dark-heading dark:text-light-heading hover:text-gradient transition-colors"

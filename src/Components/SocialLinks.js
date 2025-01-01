@@ -9,7 +9,7 @@ const SocialLinks = () => {
     <div className="hidden lg:flex fixed left-10 top-1/3 flex-col items-center gap-6 p-4">
       {/* GitHub Link */}
       <a
-        href="https://github.com/bhaveshP443" // Replace with your GitHub profile URL
+        href="https://github.com/BhaveshP443" // Replace with your GitHub profile URL
         target="_blank"
         rel="noopener noreferrer"
         className="text-dark-heading dark:text-light-heading hover:text-gradient transition-colors"
